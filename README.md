@@ -368,25 +368,18 @@ Future versions of the dashboard can include:
 
 
 
-###👨‍💻 Skills Demonstrated
+⭐ Final Summary
 
+The Hospital Patient Dashboard is an interactive Power BI healthcare analytics project designed to transform hospital patient data into meaningful and actionable insights. The dashboard provides a comprehensive view of patient admissions, billing, insurance coverage, patient information, length of stay, and patient status.
 
---Power BI
---DAX
---Power Query
---Excel
---Data Cleaning
---Data Transformation
---Data Modeling
---Data Visualization
---Dashboard Development
---Healthcare Analytics
+Using Power BI, Power Query, DAX, and Excel, the project demonstrates the complete data analytics workflow, including data cleaning, transformation, data modeling, KPI creation, and interactive visualization.
 
+The dashboard helps users analyze admission trends, department performance, billing components, insurance distribution, and patient outcomes through interactive charts, KPI cards, slicers, tables, and navigation features.
 
-##📜 Disclaimer
+🛠️ Skills Demonstrated
 
-This project is created for educational and portfolio purposes.
+Power BI | DAX | Power Query | Excel | Data Cleaning | Data Modeling | Data Visualization | Healthcare Analytics
 
-The patient data used in this project is sample/demo data and should not be considered real patient medical records.
+🎯 Project Outcome
 
-
+This project demonstrates how raw hospital data can be converted into an interactive and user-friendly Business Intelligence dashboard, supporting data-driven analysis and better understanding of hospital operations and financial performance.
