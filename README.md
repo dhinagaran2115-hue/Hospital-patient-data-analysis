@@ -34,7 +34,7 @@ The dashboard helps analyze:
 
 ### 🏠 Home / Overview
 
-![Hospital Dashboard Home](assets/home.png)
+![Hospital Dashboard Home](assets/home.png.png)
 
 ### 🏥 Admissions Details
 
