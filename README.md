@@ -38,23 +38,23 @@ The dashboard helps analyze:
 
 ### 🏥 Admissions Details
 
-![Admissions Dashboard](assets/admissions.png)
+![Admissions Dashboard](assets/admissions.png.png)
 
 ### 💰 Patient Billing Details
 
-![Billing Dashboard](assets/billing.png)
+![Billing Dashboard](assets/billing.png.png)
 
 ### 👤 Patient Details
 
-![Patient Details](assets/details.png)
+![Patient Details](assets/details.png.png)
 
 ### 🛡️ Insurance Details
 
-![Insurance Dashboard](assets/insurance.png)
+![Insurance Dashboard](assets/insurance.png.png)
 
 ### ❤️ Patient Status
 
-![Patient Status Dashboard](assets/status.png)
+![Patient Status Dashboard](assets/status.png.png)
 
 ---
 
