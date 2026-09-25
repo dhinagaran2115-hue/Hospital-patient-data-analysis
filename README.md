@@ -367,26 +367,6 @@ Future versions of the dashboard can include:
 --Doctor-wise patient analysis
 
 
-###📁 Project Structure
-
-
-Hospital-Patient-Dashboard/
-│
-├── README.md
-│
-├── Dataset/
-│   └── hospital_patient_data.xlsx
-│
-├── PowerBI/
-│   └── Hospital_Patient_Dashboard.pbix
-│
-└── assets/
-    ├── home.png
-    ├── admissions.png
-    ├── billing.png
-    ├── details.png
-    ├── insurance.png
-    └── status.png
 
 ###👨‍💻 Skills Demonstrated
 
@@ -410,16 +390,3 @@ This project is created for educational and portfolio purposes.
 The patient data used in this project is sample/demo data and should not be considered real patient medical records.
 
 
-### Then do these 3 things
-
-**1.** Click **Commit changes**.
-
-**2.** Create an `assets` folder and upload your 6 screenshots with these exact names:
-
-```text
-home.png
-admissions.png
-billing.png
-details.png
-insurance.png
-status.png 
